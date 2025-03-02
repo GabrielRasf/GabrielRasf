@@ -16,6 +16,8 @@
     <img src="logos/postgresql.svg" alt="Logo PostgreSQL" width="50" height="50">
     <img src="logos/csharp.svg" alt="Logo C#" width="50" height="50">
     <img src="logos/python.svg" alt="Logo Python" width="50" height="50">
+    <!--
     <img src="logos/php.svg" alt="Logo PHP" width="50" height="50">
+    -->
   </div>
 </div>
