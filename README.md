@@ -9,4 +9,8 @@
   <img src="logos/angular.svg" alt="Logo HTML" width="75" height="75">
   <img src="logos/node.svg" alt="Logo HTML" width="75" height="75">
   <img src="logos/sql.svg" alt="Logo HTML" width="75" height="75">
+  <img src="logos/postgresql.svg" alt="Logo HTML" width="75" height="75">
+  <img src="logos/c#.svg" alt="Logo HTML" width="75" height="75">
+  <img src="logos/python.svg" alt="Logo HTML" width="75" height="75">
+  <img src="logos/php.svg" alt="Logo HTML" width="75" height="75">
 </div>
