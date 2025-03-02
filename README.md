@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=transparent)
+
 <div align="center">
   <img src="logos/html.svg" alt="Logo HTML" width="50" height="50">
   <img src="logos/css.svg" alt="Logo CSS" width="50" height="50">
