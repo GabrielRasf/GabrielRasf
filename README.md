@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=graywhite )
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=graywhite)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact)
 
   <img src="logos/html.svg" alt="Logo HTML" width="50" height="50">
