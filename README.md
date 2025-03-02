@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact&bg_color=#0D1117&text_color=FFFFFF&icon_color=FF6347)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=graywhite )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact)
 <div align="center">
   <img src="logos/html.svg" alt="Logo HTML" width="50" height="50">
   <img src="logos/css.svg" alt="Logo CSS" width="50" height="50">
