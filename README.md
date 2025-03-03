@@ -2,7 +2,7 @@
   ## Hi there 👋
 </div>
 
-<div align="center">
+<div display="flex", justify-content="center", align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact" alt="Top Langs" style="margin-bottom: 20px;">
     <div>
