@@ -6,6 +6,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true" alt="Gabriel's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact" alt="Top Langs">
+
+  <hr>
   
   <div align="center">
     <img src="logos/html.svg" alt="Logo HTML" width="50" height="50" style="margin: 5px;">
