@@ -1,5 +1,5 @@
-<div align="center"; margin-bottom:10px>
-  ## Hi there 👋
+<div align="center">
+  # Hi there 👋
 </div>
 
 <div align="center">
