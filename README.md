@@ -1,4 +1,4 @@
-<div align="center"; margin-bottom:"10px">
+<div align="center"; margin-bottom:10px>
   ## Hi there 👋
 </div>
 
