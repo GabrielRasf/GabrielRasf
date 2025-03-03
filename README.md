@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact&bg_color=#151515" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact" alt="Top Langs" style="margin-bottom: 20px;">
     <div>
       <img src="logos/html.svg" alt="Logo HTML" width="50" height="50">
       <img src="logos/css.svg" alt="Logo CSS" width="50" height="50">
