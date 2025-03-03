@@ -2,12 +2,12 @@
   ## Hi there 👋
 </div>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; width: 100%;">
+<div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=dark" alt="Gabriel's GitHub stats" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact" alt="Top Langs" style="margin-bottom: 20px;">
   
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%; text-align: center;">
+  <div align="center">
     <img src="logos/html.svg" alt="Logo HTML" width="50" height="50" style="margin: 5px;">
     <img src="logos/css.svg" alt="Logo CSS" width="50" height="50" style="margin: 5px;">
     <img src="logos/javascript.svg" alt="Logo JavaScript" width="50" height="50" style="margin: 5px;">
