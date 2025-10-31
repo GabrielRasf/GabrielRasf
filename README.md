@@ -17,7 +17,7 @@
     <img src="logos/angular.svg" alt="Logo Angular" width="50" height="50" style="margin: 5px;">
     <img src="logos/node.svg" alt="Logo Node.js" width="50" height="50" style="margin: 5px;">
     <img src="logos/sql.svg" alt="Logo SQL" width="50" height="50" style="margin: 5px;">
-    <img src="logos/postgresql.svg" alt="Logo PostgreSQL" width="50" height="50" style="margin: 5px;">
+    <!-- <img src="logos/postgresql.svg" alt="Logo PostgreSQL" width="50" height="50" style="margin: 5px;">-->
     <img src="logos/python.svg" alt="Logo Python" width="50" height="50" style="margin: 5px;">
     <!--
     <img src="logos/php.svg" alt="Logo PHP" width="50" height="50" style="margin: 5px;">
