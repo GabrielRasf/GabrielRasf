@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true" alt="Gabriel's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielRasf&show_icons=true&theme=dark" alt="Gabriel's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRasf&layout=compact" alt="Top Langs">
 
   <hr>
